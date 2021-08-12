@@ -48,7 +48,12 @@ Create a security group you will later use to authorize access to your Redshift 
 
 7. Choose Create
 
+<Img src="https://github.com/rhnyewale/Data-Engineering-Projects/blob/main/3%20Cloud%20Data%20Warehouses/2%20Introduction%20to%20Cloud%20Computing%20and%20AWS/Images/Create_security_group.JPG?raw=true">
 
+# Launch a Redshift Cluster
+
+
+ 
 
 
 
